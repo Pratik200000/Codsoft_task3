@@ -1,4 +1,4 @@
-## Codsoft_task3
+Codsoft_task3
 
 Iris Flower Classification using Data Science This project is a classic example of data science and machine learning for the classification of Iris flower species. By leveraging a well-known dataset containing various iris attributes, we aim to build a model that can accurately classify iris flowers into their respective species.
 
